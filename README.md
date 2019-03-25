@@ -1,10 +1,1 @@
-# practicing learning with Martin Shure
-
-python 
-node.js
-golang
-initial commit
-
-## second commit to test shortcut 
-
-yahhhhhhh
+Basic Brick game written completely in Javascript and minimal HTML.

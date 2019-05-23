@@ -158,7 +158,7 @@ function draw() {
         else {
             lives--;
             if (!lives) {
-                alert ("IM HIGH");
+                alert ("Better luck next time");
                 document.location.reload();
                 clearInterval(interval); // Needed For Chrome to end game
             }
